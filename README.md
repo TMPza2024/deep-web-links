@@ -14,8 +14,7 @@ Secrets of TOR - Your Ultimate Destination for Guides, Directories, and Deep Web
 
 ## The Hidden Wiki - Your Gateway to the Depths of the Deep Web and Dark Web Onion Links.
 
-| Site | TOR URLs | Description |
-| ---## 🕵️‍♂️ Essential TOR Resources
+## 🕵️‍♂️ Essential TOR Resources
 
 | 📌 **Resource**      | 🌐 **TOR URLs**                                                                                             | 📖 **Description**                                                   |
 |----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
